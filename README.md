@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnishBhandarkar
 - 👀 I’m interested in python, java application development and web development
-- 🌱 I’m currently learning java frameworks
+- 🌱 I’m currently learning deep learning
 - 📫 Contact me on anishbhandarkar14@gmail.com
 
 <!---
