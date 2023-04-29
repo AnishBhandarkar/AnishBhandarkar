@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I am passionate about exploring the intersection of bioinformatics and deep learning, leveraging the power of AI to drive advancements in the life sciences field.<br><br>🏛I am deeply interested in the field of cultural heritage and the potential for AI to unlock new insights into the past.<br><br>My current focus is on learning and mastering deep learning techniques, I am excited to explore its vast applications in areas such as computer vision, natural language processing, and robotics, among others. 
+💻I am passionate about exploring the intersection of bioinformatics and deep learning, leveraging the power of AI to drive advancements in the life sciences field.<br><br>🏛I am deeply interested in the field of cultural heritage and the potential for AI to unlock new insights into the past.<br><br>📄My current focus is on learning and mastering deep learning techniques, I am excited to explore its vast applications in areas such as computer vision, natural language processing, and robotics, among others. 
 
 
 ## 🌐 Socials:
