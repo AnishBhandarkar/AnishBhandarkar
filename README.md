@@ -10,8 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnishBhandarkar&theme=radical&hide_border=false)<br/>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AnishBhandarkar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
