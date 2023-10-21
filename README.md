@@ -1,5 +1,11 @@
 # 💫 About Me:
-💻I am passionate about the latest cutting-edge machine learning technologies, and I have a strong interest in leveraging Machine Learning (ML) to drive innovative solutions. I have actively undertaken several projects that involve the application of ML concepts, particularly in the field of disease diagnosis. <br><br>📄My current focus is on learning and mastering deep learning techniques, I am excited to explore its vast applications in areas such as computer vision, natural language processing, and robotics, among others. 
+👋 Hello! I'm Anish Bhandarkar, a budding software engineer excited to embark on my journey in the IT industry. Freshly minted in the industry, I'm on a mission to learn, innovate, and contribute.
+<br> <br>
+🌱 **My Journey:** I might be new to the game, but I'm eager to make my mark. I'm currently focused on mastering foundational skills in Java, Angular, SpringBoot, AWS.
+<br> <br>
+🚀 **Looking Ahead:** My goal? To grow, adapt, and become a well-rounded IT professional. I'm open to collaborations, mentorship, and soaking in every bit of wisdom from experienced developers.
+<br> <br>
+Let's connect and learn from each other! If you're as passionate about technology and innovation as I am, I'd love to chat. Together, let's explore the vast universe of IT possibilities! 🚀
 
 
 ## 🌐 Socials:
