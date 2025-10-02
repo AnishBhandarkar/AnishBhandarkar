@@ -1,5 +1,31 @@
 # 💫 About Me:
-Hey there! I’m a software developer who loves turning ☕ coffee into clean, scalable code. I specialize in building user-centric applications with modern JavaScript frameworks and a strong focus on performance, reusability, and testing.<br><br>⚡ Tech Arsenal<br>Languages & Markup: HTML • CSS • JavaScript (ES6+) • TypeScript<br>Frameworks & Libraries: Angular • React • JSX • NgRx • Redux • RxJS<br>Testing Tools: Jest • Jasmine<br>Other Superpowers: Writing maintainable code • Optimizing performance • Creating reusable components • Experimentation & data-driven decisions<br>🚀 What I’m Passionate About<br>Architecting reusable UI components and developer-friendly SDKs<br>Building apps that scale gracefully and perform smoothly<br>Experimenting, tracking, and learning from data to improve user experience<br>Exploring new frameworks and pushing beyond my comfort zone<br>🌱 Currently<br>Leveling up my React + Redux skills<br>Diving deeper into experimentation & data capture engineering<br>Always chasing that sweet balance between clean code and real-world delivery<br>✨ Fun Side Note<br>When I’m not coding, I’m probably at the gym 🏋️‍♂️ or exploring tech ideas that spark my curiosity.
+Hey there! I’m a **software developer** who loves turning ☕ coffee into clean, scalable code.
+I specialize in building **user-centric applications** with modern JavaScript frameworks and a strong focus on **performance, reusability, and testing**.
+
+### ⚡ Tech Arsenal
+
+* **Languages & Markup:** HTML • CSS • JavaScript (ES6+) • TypeScript
+* **Frameworks & Libraries:** Angular • React • JSX • NgRx • Redux • RxJS
+* **Testing Tools:** Jest • Jasmine
+* **Other Superpowers:** Writing maintainable code • Optimizing performance • Creating reusable components • Experimentation & data-driven decisions
+
+### 🚀 What I’m Passionate About
+
+* Architecting **reusable UI components** and developer-friendly SDKs
+* Building apps that scale gracefully and perform smoothly
+* Experimenting, tracking, and learning from data to improve user experience
+* Exploring new frameworks and pushing beyond my comfort zone
+
+### 🌱 Currently
+
+* Leveling up my **React + Redux** skills
+* Diving deeper into **experimentation & data capture engineering**
+* Always chasing that sweet balance between **clean code** and **real-world delivery**
+
+### ✨ Fun Side Note
+
+When I’m not coding, I’m probably at the gym 🏋️‍♂️ or exploring tech ideas that spark my curiosity.
+
 
 
 ## 🌐 Socials:
