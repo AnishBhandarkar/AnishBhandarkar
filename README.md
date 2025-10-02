@@ -1,5 +1,33 @@
 # 💫 About Me:
-👋 Hello! I'm Anish Bhandarkar, a budding software engineer excited to embark on my journey in the IT industry. Freshly minted in the industry, I'm on a mission to learn, innovate, and contribute.<br><br> <br><br>🌱 **My Journey:** I might be new to the game, but I'm eager to make my mark. I'm currently focused on mastering foundational skills in Java, Angular, SpringBoot.<br><br> <br><br>🚀 **Looking Ahead:** My goal? To grow, adapt, and become a well-rounded IT professional. I'm open to collaborations, mentorship, and soaking in every bit of wisdom from experienced developers.<br><br> <br><br>Let's connect and learn from each other! If you're as passionate about technology and innovation as I am, I'd love to chat. Together, let's explore the vast universe of IT possibilities! 🚀
+Hey there! I’m a **software developer** who loves turning ☕ coffee into clean, scalable code.
+I specialize in building **user-centric applications** with modern JavaScript frameworks and a strong focus on **performance, reusability, and testing**.
+
+### ⚡ Tech Arsenal
+
+* **Languages & Markup:** HTML • CSS • JavaScript (ES6+) • TypeScript
+* **Frameworks & Libraries:** Angular • React • JSX • NgRx • Redux • RxJS
+* **Testing Tools:** Jest • Jasmine
+* **Other Superpowers:** Writing maintainable code • Optimizing performance • Creating reusable components • Experimentation & data-driven decisions
+
+### 🚀 What I’m Passionate About
+
+* Architecting **reusable UI components** and developer-friendly SDKs
+* Building apps that scale gracefully and perform smoothly
+* Experimenting, tracking, and learning from data to improve user experience
+* Exploring new frameworks and pushing beyond my comfort zone
+
+### 🌱 Currently
+
+* Leveling up my **React + Redux** skills
+* Diving deeper into **experimentation & data capture engineering**
+* Always chasing that sweet balance between **clean code** and **real-world delivery**
+
+### ✨ Fun Side Note
+
+When I’m not coding, I’m probably at the gym 🏋️‍♂️ or exploring tech ideas that spark my curiosity.
+
+
+
 
 
 ## 🌐 Socials:
