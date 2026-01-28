@@ -4,9 +4,10 @@ I specialize in building **user-centric applications** with modern JavaScript fr
 
 ### ⚡ Tech Arsenal
 
-* **Languages & Markup:** HTML • CSS • JavaScript (ES6+) • TypeScript
-* **Frameworks & Libraries:** Angular • React • JSX • NgRx • Redux • RxJS
-* **Testing Tools:** Jest • Jasmine
+* **Languages & Markup:** HTML • CSS • JavaScript (ES6+) • TypeScript • JSX
+* **Frameworks & Libraries:** React • Angular
+* **State management:** Redux tookit (RTK) • RTK query
+* **Testing Tools:** Jest • Jasmine • React testing library
 * **Other Superpowers:** Writing maintainable code • Optimizing performance • Creating reusable components • Experimentation & data-driven decisions
 
 ### 🚀 What I’m Passionate About
