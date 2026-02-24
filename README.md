@@ -5,27 +5,27 @@ I work at the intersection of user experience and engineering rigor, focusing on
 
 ### ⚡ Technical Experiance
 
-**Core Languages**
+Core Languages:
 JavaScript (ES6+) • TypeScript • HTML • CSS
 
-**Frontend Architecture**
-React • Next.js • Angular
-Component-driven architecture • Reusable design systems • Code splitting • Lazy loading
+Frontend Architecture:
+React • Next.js • Angular Component-driven architecture • Reusable design systems • Code splitting • Lazy loading
 
-**State & Data Layer**
-Redux Toolkit (RTK) • RTK Query
-RESTful APIs • GraphQL
+State & Data Layer Redux Toolkit:
+(RTK) • RTK Query RESTful APIs • GraphQL
 
-**Backend Collaboration & BFF Exposure**
+Backend Collaboration & BFF Exposure:
 Node.js • Express.js
 
-**Performance & Quality Engineering**
-Core Web Vitals Optimization
-Lighthouse Auditing
-SEO Implementation
-Accessibility (WCAG best practices)
-Secure frontend patterns (token handling, XSS mitigation, auth flows)
-Jest • Jasmine • React Testing Library
+Performance & Quality Engineering:
+• Core Web Vitals Optimization
+• Lighthouse Auditing 
+• SEO Implementation 
+• Accessibility (WCAG best practices)
+• Secure frontend patterns (token handling, XSS mitigation, auth flows) 
+• Jest • Jasmine • React Testing Library
+
+
 
 ### 🚀 Engineering Philosophy
 
