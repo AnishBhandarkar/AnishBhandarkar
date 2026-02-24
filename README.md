@@ -1,33 +1,68 @@
-# 💫 About Me:
-Frontend Engineer with 3+ years of experience building high-performance, scalable web applications used in production environments. I design modular UI architectures, own features end-to-end, and optimize systems for performance, maintainability, and long-term growth.
+## 💫 About Me
 
-I work at the intersection of user experience and engineering rigor, focusing on performance budgets, Core Web Vitals, frontend security, accessibility standards, and clean state management patterns. My approach balances pragmatic delivery with sustainable architecture.
+Frontend Engineer with **3+ years of experience** building high-performance, scalable web applications in production environments.
 
-### ⚡ Technical Experiance
+I design **modular UI architectures**, own features end-to-end, and optimize systems for performance, maintainability, and long-term growth.
 
-Core Languages:
-JavaScript (ES6+) • TypeScript • HTML • CSS
+My work lives at the intersection of:
 
-Frontend Architecture:
-React • Next.js • Angular Component-driven architecture • Reusable design systems • Code splitting • Lazy loading
+* ⚡ User Experience
+* 🧠 Engineering Rigor
+* 📊 Measurable Performance
 
-State & Data Layer Redux Toolkit:
-(RTK) • RTK Query RESTful APIs • GraphQL
+I focus on **Core Web Vitals, performance budgets, frontend security, accessibility standards, and clean state management patterns** — balancing pragmatic delivery with sustainable architecture.
 
-Backend Collaboration & BFF Exposure:
-Node.js • Express.js
+---
 
-Performance & Quality Engineering:
-• Core Web Vitals Optimization
-• Lighthouse Auditing 
-• SEO Implementation 
-• Accessibility (WCAG best practices)
-• Secure frontend patterns (token handling, XSS mitigation, auth flows) 
-• Jest • Jasmine • React Testing Library
+## ⚡ Technical Experience
 
+### 🧠 Core Languages
 
+* JavaScript (ES6+)
+* TypeScript
+* HTML5
+* CSS3
 
-### 🚀 Engineering Philosophy
+### 🏗 Frontend Architecture
+
+* React
+* Next.js
+* Angular
+* Component-Driven Architecture
+* Reusable Design Systems
+* Code Splitting
+* Lazy Loading
+
+### 🔄 State & Data Layer
+
+* Redux Toolkit (RTK)
+* RTK Query
+* RESTful APIs
+* GraphQL
+
+### 🤝 Backend Collaboration & BFF Exposure
+
+* Node.js
+* Express.js
+
+### 🚀 Performance & Quality Engineering
+
+* Core Web Vitals Optimization
+* Lighthouse Auditing
+* SEO Implementation
+* Accessibility (WCAG Best Practices)
+* Secure Frontend Patterns
+
+  * Token handling
+  * XSS mitigation
+  * Auth flows
+* Jest
+* Jasmine
+* React Testing Library
+
+---
+
+## 🚀 Engineering Philosophy
 
 * Build scalable UI systems, not one-off components
 * Treat performance as a feature, not an afterthought
@@ -35,15 +70,22 @@ Performance & Quality Engineering:
 * Prioritize code clarity and long-term maintainability
 * Own production outcomes, not just pull requests
 
-### 🌱 Currently
+---
 
-* Leveling up my **React + Redux** skills
-* Diving deeper into **experimentation & data capture engineering**
-* Always chasing that sweet balance between **clean code** and **real-world delivery**
+## 🌱 Growth Focus
 
-### ✨ Fun Side Note
+* Advancing deeper into React + Redux architecture patterns
+* Experimentation systems & data capture engineering
+* Strengthening frontend performance strategy at scale
 
-When I’m not coding, I’m probably at the gym 🏋️‍♂️ or exploring tech ideas that spark my curiosity.
+---
+
+## 🏋️ Beyond Code
+
+When I’m not building UI systems, I’m usually in the gym or exploring tech ideas that stretch my thinking.
+
+Discipline in training. Discipline in engineering. Same mindset.
+
 
 
 ## 🌐 Socials:
