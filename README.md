@@ -80,12 +80,6 @@ I focus on **Core Web Vitals, performance budgets, frontend security, accessibil
 
 ---
 
-## 🏋️ Beyond Code
-
-When I’m not building UI systems, I’m usually in the gym or exploring tech ideas that stretch my thinking.
-
-Discipline in training. Discipline in engineering. Same mindset.
-
 
 
 ## 🌐 Socials:
