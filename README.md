@@ -27,7 +27,6 @@ My work lives at the intersection of:
 
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-2de0b0?style=flat-square&logo=circle&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Frontend%20Architecture-7c6bff?style=flat-square)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-95%2B-brightgreen?style=flat-square&logo=lighthouse&logoColor=white)
 
 ```
 Core Web Vitals  ████████████ ✓
@@ -171,7 +170,7 @@ ADR-005  ADOPT   production ownership beyond the PR merge
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-see_the_work-7c6bff?style=for-the-badge&logo=vercel&logoColor=white)](https://anish-bhandarkar-hkq6kfl.gamma.site/)
 <br/>
-<sub>`// a snapshot of my work and experience`</sub>
+<sub>`// a snapshot of my experience`</sub>
 
 </td>
 </tr>
