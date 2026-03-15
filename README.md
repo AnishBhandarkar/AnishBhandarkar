@@ -122,27 +122,65 @@ ADR-005  ADOPT   production ownership beyond the PR merge
 
 ---
 
+
+## `> curl stats.api/AnishBhandarkar`
+
 <div align="center">
 
-*Crafted with `</> ` & intentionality*
+<table>
+<tr>
+  <td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishBhandarkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=080810&title_color=7c6bff&text_color=c9c9e0&langs_count=6" height="165"/>
+  </td>
+
+  <td>
+  <img src="https://streak-stats.demolab.com?user=AnishBhandarkar&theme=tokyonight&hide_border=true&background=080810&ring=7c6bff&fire=2de0b0&currStreakLabel=2de0b0&sideLabels=7a7a9a&dates=7a7a9a" height="165"/>
+  </td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+## `> ping --reach-me`
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anish-bhandarkar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anishbhandarkar25@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=plastic&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=plastic&logo=jasmine&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=plastic&logo=reactivex&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=plastic&logo=Jasmine&logoColor=white)
+```
+// drop a connection request. response time: < 24h
+```
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnishBhandarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnishBhandarkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishBhandarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+<tr>
+<td align="center" width="33%">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-bhandarkar/)
+<br/>
+<sub>`// let's connect professionally`</sub>
+
+</td>
+<td align="center" width="33%">
+
+[![Gmail](https://img.shields.io/badge/Gmail-say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishbhandarkar25@gmail.com)
+<br/>
+<sub>`// open to opportunities`</sub>
+
+</td>
+<td align="center" width="33%">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-see_the_work-7c6bff?style=for-the-badge&logo=vercel&logoColor=white)](https://anish-bhandarkar-hkq6kfl.gamma.site/)
+<br/>
+<sub>`// a snapshot of my work and experience`</sub>
+
+</td>
+</tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnishBhandarkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+*Crafted with `</> ` & intentionality*
+
+</div>
