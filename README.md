@@ -18,7 +18,7 @@
 
 Full Stack Engineer at **Clarivate**, contributing to **Derwent**, a global patent intelligence platform used by professionals worldwide.
 
-I design and build **end-to-end systems** — from high-performance frontends to resilient backend services — with a strong focus on **scalability, system design, and production reliability**.
+I design and build **end-to-end systems** from high performance frontends to resilient backend services with a strong focus on **scalability, system design, and production reliability**.
 
 My work lives at the intersection of:
 
