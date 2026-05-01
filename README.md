@@ -112,30 +112,6 @@ Prod Ownership   ████████████ ✓
 
 ---
 
-## `> cat DECISIONS.md`
-
-```
-ADR-001  ADOPT   end-to-end feature ownership over layer-by-layer handoff
-         REASON  "not my layer" is where bugs live and accountability dies
-
-ADR-002  ADOPT   performance budgets enforced at CI, not post-launch
-         REASON  "we'll optimize later" has never once been true
-
-ADR-003  ADOPT   Redis caching as a first-class architectural concern
-         REASON  database hits don't scale — cache misses do though, badly
-
-ADR-004  ADOPT   event-driven async patterns over synchronous service chains
-         REASON  synchronous chains under load become synchronous failures
-
-ADR-005  ADOPT   code reviewed for the next engineer, not the next sprint
-         REASON  clarity is a feature. ambiguity is tech debt with no ticket
-
-ADR-006  ADOPT   production ownership beyond the PR merge
-         REASON  shipping is a beginning, not a finish line
-```
-
----
-
 ## `> curl stats.api/AnishBhandarkar`
 
 <div align="center">
