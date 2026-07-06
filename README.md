@@ -3,6 +3,6 @@
 </p> -->
 
 <p align="center">
-  <img src="assets/g5.gif" style="max-width: 45%; height: auto;" alt="Luffy G5">
-  <img src="assets/kaido.gif" style="max-width: 45%; height: auto;" alt="Jaido">
+  <img src="assets/g5.gif" width="300" style="height: auto; margin: 0 10px;" alt="Luffy G5">
+  <img src="assets/kaido.gif" width="300" style="height: auto; margin: 0 10px;" alt="Jaido">
 </p>
