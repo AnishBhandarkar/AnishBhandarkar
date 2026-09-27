@@ -9,70 +9,115 @@
   <img src="assets/g5.gif" width="200" style="height: auto; margin: 0 10px;" alt="Luffy G5">
 </p> -->
 
+<p align="center">
+  <img src="assets/kaido.gif" style="max-width: 800px; max-height: 500px; width: auto; height: auto;" alt="kaidu">
+</p>
+
+---
 
 <div align="center">
 
-## 🧠 LeetCode Progress
+  <h2>Problem Solving & Competitive Programming</h2>
 
-### 📊 Live Statistics
+  <br />
 
-<p align="center">
-  <a href="https://leetcode.com/u/Anish_Bhandarkar/">
-    <img src="https://leetcode-stats-six.vercel.app/Anish_Bhandarkar?theme=dark" alt="Anish Bhandarkar's LeetCode Stats" />
-  </a>
-</p>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>LeetCode Statistics</h3>
+        <a href="https://leetcode.com/u/Anish_Bhandarkar/">
+          <img src="https://leetcode-stats-six.vercel.app/Anish_Bhandarkar?theme=dark" alt="Anish Bhandarkar's LeetCode Stats" width="100%" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h3>Codeforces Statistics</h3>
+        <a href="https://codeforces.com/profile/anish_bhandarkar">
+          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=anish_bhandarkar" width="100%" alt="Codeforces Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-### 🔥 Leetcode badges
+  <br />
 
-<p align="center">
-  <img
-    src="https://leetcode-badge-showcase.vercel.app/api?username=Anish_Bhandarkar&theme=github-dark&animated=true"
-    alt="LeetCode Badges"
-  />
-</p>
+  <h3>🔥 LeetCode Badges</h3>
+  <p align="center">
+    <img
+      src="https://leetcode-badge-showcase.vercel.app/api?username=Anish_Bhandarkar&theme=github-dark&animated=true"
+      alt="LeetCode Badges"
+    />
+  </p>
 
-
-
----
-
-
-
-## 💻 Tech Stack
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?logo=reactivex&logoColor=white)
-
-### Backend
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
-
-### Databases & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-
-### Testing & Tools
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
+</div>
 
 ---
 
+<div align="center">
+
+  <h2>💻 Tech Stack & Ecosystem</h2>
+
+  <br />
+
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <strong>🎨 Frontend</strong>
+      </td>
+      <td align="center" width="25%">
+        <strong>⚙️ Backend</strong>
+      </td>
+      <td align="center" width="25%">
+        <strong>🗄️ Database & Cloud</strong>
+      </td>
+      <td align="center" width="25%">
+        <strong>🛠️ Testing & Tools</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" /></a>
+      </td>
+      <td align="center" valign="top">
+        <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" /></a>
+      </td>
+      <td align="center" valign="top">
+        <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /></a>
+      </td>
+      <td align="center" valign="top">
+        <a href="#"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /></a><br />
+        <a href="#"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" /></a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+<div align="center">
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" />
+  </p>
+</div>
